@@ -1,0 +1,18 @@
+.vscode/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+out/
+
+# Ignore custom configs
+*.config.js
+*.config.ts
+
+# Node modules
+node_modules
